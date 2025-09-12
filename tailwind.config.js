@@ -1,3 +1,4 @@
+
 /** @type {import('tailwindcss').Config} */
 export default {
   content: [
@@ -121,4 +122,4 @@ export default {
     require('tailwindcss-textshadow'),
     require('@midudev/tailwind-animations')
   ]
-}
+};
